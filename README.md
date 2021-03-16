@@ -31,5 +31,8 @@ I realized that the application allows us to export only the expenses of the las
 4. Run the command `npm start`
 5. We can now access the web application in your browser by navigating to http://localhost:3000
 
+## Disclaimer
+This is purely an academic exercise. A small side project to help me understand react and a few other concepts with a working example. 
+
 ## License
 Code released under the [MIT license](https://github.com/diwakargrandhi/spendee-html-to-csv/blob/main/LICENSE)
